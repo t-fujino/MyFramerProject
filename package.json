@@ -1,0 +1,15 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "81ebb3b6-e180-4347-be3e-7735b312700b"
+	},
+	"author": "takashi fujino"
+}
